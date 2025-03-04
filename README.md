@@ -2,7 +2,7 @@
 
 **Committed and driven cybersecurity professional with a strong background in information security.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](linkdin.com/mohammedasnas-amadaf) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammedasharafm/  ) 
 
 ## About Me
 
@@ -40,7 +40,7 @@ I'm a cybersecurity enthusiast with a passion for protecting systems and data. M
 
 ## Contact
 
-* **Email:** asdf@123@gmail.com 
+* **Email:** mohammedasharaf200223@gmail.com 
 
 ---
 
