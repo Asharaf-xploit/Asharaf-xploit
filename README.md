@@ -32,12 +32,6 @@ I'm a cybersecurity enthusiast with a passion for protecting systems and data. M
 
 * **CEH v12**
 
-## Projects
-
-* **[Project 1 Name/Link]:** Brief description of the project and your role.
-* **[Project 2 Name/Link]:** Brief description of the project and your role.
-* **[Project 3 Name/Link]:** Brief description of the project and your role. (Add more as needed)
-
 ## Contact
 
 * **Email:** mohammedasharaf200223@gmail.com 
